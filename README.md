@@ -53,6 +53,3 @@ AI Chatbot Tutor: ask "Why was this split chosen?" or "What does entropy mean he
 Educational notes and references for each algorithm step.
 
 ---
-k-NN — show distance computations and neighbor voting
-
-(Planned) SVM, Random Forest (visualize individual trees), Neural Network (simple MLP with epoch-by-epoch weight updates)
